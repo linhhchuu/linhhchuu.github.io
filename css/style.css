@@ -91,3 +91,17 @@ label {
 	margin: auto;
 }
 
+.mailChimp {
+	background-color: white;
+}
+
+img {
+	display: block;
+	height: auto;
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.reducedContainer {
+	padding: -80px;
+}
